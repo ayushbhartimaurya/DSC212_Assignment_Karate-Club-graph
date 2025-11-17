@@ -76,6 +76,7 @@ The assignment required me to:
 
 * The final algorithm successfully partitioned the 34-node graph. It ran for 10 split iterations, finding 11 final communities [cell 15 output].
 * The metric evolution for all 34 nodes was successfully tracked across all 10 iterations [cell 21 output].
+* Entire report have been written in the end of .ipynb file.
 
 ---
 
